@@ -1,5 +1,6 @@
 # AUSTVirtualCampus
 Senior Project for the degree of Bachelor of Science in Computer Science, by Mariam El Zaatari and Anis Zoghbi
+
 Abstract
 
 This report tackles one of the negative aspects of the COVID-19 pandemic that we are facing today. There is no denying that the pandemic has posed many problems into our daily lives. The most important challenge to conquer is to continuously abide by the social isolation measures imposed by this disease. Although these social isolation measures have proven to be highly effective, many individuals across society are negatively affected by it. 

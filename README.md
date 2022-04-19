@@ -4,13 +4,13 @@
 
 > Hello world! This is the project’s summary that describes the project plain and simple, limited to the space available.  
 
-**[PROJECT PHILOSOPHY](https://github.com/MariamElZaatari/AUSTVirtualCampus#-project-philosophy) • [TECH STACK](https://github.com/MariamElZaatari/AUSTVirtualCampus#-tech-stack) • [IMPLEMENTATION](https://github.com/MariamElZaatari/AUSTVirtualCampus#-impplementation)**
+**[PROJECT PHILOSOPHY](https://github.com/MariamElZaatari/AUSTVirtualCampus#project-philosophy) • [TECH STACK](https://github.com/MariamElZaatari/AUSTVirtualCampus#tech-stack) • [IMPLEMENTATION](https://github.com/MariamElZaatari/AUSTVirtualCampus#implementation)**
 
 </div>
 
 <br><br>
 
-<img src="./readme/title2.svg"/>
+<img id="project-philosophy" src="./readme/title2.svg"/>
 
 > The AUST Virtual Campus is an e-learning desktop application that simulates a real campus’ atmosphere, activities, and interactions. 
 > 
@@ -23,9 +23,9 @@
 
 <br><br>
 
-<img src="./readme/title4.svg"/>
+<img id="tech-stack" src="./readme/title4.svg"/>
 
-Here's a brief high-level overview of the tech stack the Well app uses:
+Here's a brief high-level overview of the tech stack the app uses:
 
 - The project is developed in [Unreal Engine™](https://www.unrealengine.com/en-US/) by using the creation tools for game development. Unreal Engine is the world's most open and advanced real-time 3D creation tool for photoreal visuals and immersive experiences.
 - It is written mainly in Blueprints and C++™. Blueprints are used throughout the project for a simpler and faster results.
@@ -34,21 +34,30 @@ Here's a brief high-level overview of the tech stack the Well app uses:
 
 
 <br><br>
-<img src="./readme/title5.svg"/>
+<img id="implementation" src="./readme/title5.svg"/>
 
 > Using the above mentioned tech stacks, the implementation of the app is shown as below, these are screenshots and a link to the demo video from the real app.
-
+<br/>
 <table border="1" width="100%">
 <tr>
-  <th colspan=2> <b>Profile</b></th>
+  <th colspan=2> <b>Demo Video</b></th>
 </tr>
 <tr>
-  <td width="50%"><p align="center"> <img src="./readme/screenshots/campus.png" width="50%"/> </p></td>
+  <td width="100%"><p align="center"> https://drive.google.com/file/d/1hi1p8ZBIGt9Vq2XpdhULmCF7vRo5wq6B/view?usp=sharing </p></td>
+</tr>
+</table>
+<br/>
+<table border="1" width="100%">
+<tr>
+  <th colspan=2> <b>Screenshots</b></th>
 </tr>
 <tr>
-  <td width="50%"><p align="center"> <img src="./readme/screenshots/login.png" width="50%"/> </p></td>
+  <td width="100%"><p align="center"> <img src="./readme/screenshots/campus.jpg" width="50%"/> </p></td>
 </tr>
 <tr>
-  <td width="50%"><p align="center"> <img src="./readme/screenshots/register.png" width="50%"/> </p></td>
+  <td width="100%"><p align="center"> <img src="./readme/screenshots/login.png" width="50%"/> </p></td>
+</tr>
+<tr>
+  <td width="100%"><p align="center"> <img src="./readme/screenshots/register.png" width="50%"/> </p></td>
 </tr>
 </table>
